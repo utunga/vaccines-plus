@@ -33,6 +33,8 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-remote-theme
+
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -58,7 +60,8 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Pacific/Auckland # Timezone for blog posts and alike
+remote_theme: daviddarnes/alembic@main
 
 # 5. Collections
 collections:
