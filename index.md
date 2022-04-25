@@ -1,93 +1,54 @@
 ---
-title: About Alembic
+title: Vaccines Plus
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  # Vaccines Plus
+  ## A new strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand
+feature_image: "https://images.unsplash.com/photo-1650598375215-e3c38fd62b77"
+excerpt: "Vaccines Plus is new strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+COVID-19 is a novel pathogen that can repeatedly infect, with infection resulting in an increased risk of many serious long-term health complications for people of all ages. It is evident that vaccination alone will not be enough to fully protect our communities from high rates of COVID infection and the resulting complications.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+Relying on ‘personal responsibility’, without effective public health measures, will result in repeated waves of infection, an overloaded and dysfunctional healthcare system, and ongoing disruption to daily life. This scenario is currently playing out around the world. Instead, a collective approach is required that focuses on minimising transmission by means of public health policies. These measures should be viewed as protections rather than restrictions, and when combined with a high vaccination rate, would encompass a Vaccines Plus strategy.
 
-## Features
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+## Actions to take now 
 
-## Examples
+COVID-19 spreads predominantly by airborne transmission. Public health policies must aim to provide clean air within indoor environments to minimise infections. The evidence for this conclusion is extensive.
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+We urge the New Zealand Government to implement the following, as part of a Vaccines Plus strategy:
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- Define and clearly communicate to the public a coherent mitigation strategy with well-defined goals. It is essential that this strategy recognises that the best outcomes for individuals and society will be achieved by maintaining low infection rates.
+- Increase public education on the nature and predominance of airborne transmission of COVID-19, including the factors that increase risk, and how to mitigate these risks.
+- Identify appropriate high-quality masks for public use (currently N95/P2/KN95/KF94) and inform the public that these masks are greatly superior to surgical masks. Ensure procurement and funding to avoid inequity of supply, including to schools. This policy must include the ongoing mandating of mask use in schools over the winter terms in 2022.
+- Strengthen current ventilation measures in schools, including supplying CO2 monitoring and appropriately sized HEPA air filtration units to all New Zealand classrooms in time for winter months when windows cannot be kept open.
+- Provide alternative learning arrangements and community-based support for school-aged children when necessary, to protect them and their families during periods of intense transmission. New Zealand needs to adopt a whānau-centred approach that protects the well-being of children and their families in all settings.
+- Engage engineers, aerosol scientists and other ventilation specialists to develop clear ventilation standards for indoor public spaces, including standards for air changes, airborne pathogen filtration and inactivation, and maximum acceptable CO2 levels.
+- Continue to actively promote and enable high vaccination coverage for all groups of society, including children, who currently have low vaccination rates.
 
-## Installation
+The implications of continuing to allow poorly-mitigated transmission of COVID-19 in New Zealand are too great to ignore. The burden of long term illness and disability on individuals, whānau, and our health system of Covid and Long COVID will include effects on the cardiovascular, respiratory, neurological, endocrine, and immune systems.
+Recurrent waves of infection caused by waning immunity, new variants, and the premature removal of public health controls, would lead to an over-burdened healthcare system that would struggle to provide even standard services.
 
-### Quick setup
+COVID-19 is a highly infectious disease, but transmission is preventable. The measures outlined here are inexpensive and highly effective strategies for suppressing infection rates, that will work in the background to keep people safe as they go about their daily lives. We believe these measures can create a ‘covid-hostile’ environment in New Zealand that would protect us not only from new variants, but also from other airborne respiratory infections.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+In the face of high uncertainty about the future course and long-term impacts of the SARS- CoV-2 pandemic, New Zealand can again be a world leader if we embrace a comprehensive public health based, Vaccines Plus strategy.
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+## Who are we
 
-### As a Jekyll theme
+We are a group of doctors and scientists, many of us experts in epidemiology, air quality, and medicine, who are calling on the New Zealand Government to adopt a comprehensive mitigation strateg of COVID-19.
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-### As a GitHub Pages remote theme
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+| Name        | Expertise           | Qualifications  |
+| ------------- |-------------| -----|
+| Dr Kelvin Ward|  Urgent Care Physician | MBChB FRNZCUC DipCEM PGCertCPU
+| Dr Amanda Kvalsvig | Epidemiologist      |   MBChB MRCPCH(London) PhD |
+| Professor Michael Baker | Epidemiologist      |    MBChB DPH DObs FAFPHM FNZCPHM FRACMA |
+|Dr Sandhya Ramanathan|Specialist General Practitioner|BSc (Med) MBBS (Hons) DCH FRACGP FRNZCGP|
+|Dr Anna Brooks|Immunologist|BCA BSc(Hons) PhD|
+|Dr Joel Rindelaub|Aerosol Chemist|PhD|
+|Dr Rawiri Keenan|General Practitioner|MBChB, FRNZCGP|
+|Terry Taylor|Medical Laboratory Scientist|BSc DipMLS MNZIMLS|
+|Dr David Gollogly|Urgent Care Physician|MBChB FRNZCUC|
+|Dr David Welch|Computational Biologist|PhD|
