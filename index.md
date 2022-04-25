@@ -39,16 +39,60 @@ In the face of high uncertainty about the future course and long-term impacts of
 We are a group of doctors and scientists, many of us experts in epidemiology, air quality, and medicine, who are calling on the New Zealand Government to adopt a comprehensive mitigation strateg of COVID-19.
 
 
-
-| Name        | Expertise           | Qualifications  |
-| ------------- |-------------| -----|
-| Dr Kelvin Ward|  Urgent Care Physician | MBChB FRNZCUC DipCEM PGCertCPU
-| Dr Amanda Kvalsvig | Epidemiologist      |   MBChB MRCPCH(London) PhD |
-| Professor Michael Baker | Epidemiologist      |    MBChB DPH DObs FAFPHM FNZCPHM FRACMA |
-|Dr Sandhya Ramanathan|Specialist General Practitioner|BSc (Med) MBBS (Hons) DCH FRACGP FRNZCGP|
-|Dr Anna Brooks|Immunologist|BCA BSc(Hons) PhD|
-|Dr Joel Rindelaub|Aerosol Chemist|PhD|
-|Dr Rawiri Keenan|General Practitioner|MBChB, FRNZCGP|
-|Terry Taylor|Medical Laboratory Scientist|BSc DipMLS MNZIMLS|
-|Dr David Gollogly|Urgent Care Physician|MBChB FRNZCUC|
-|Dr David Welch|Computational Biologist|PhD|
+<table class="signature_table">
+    <tr>
+        <th>Name</th>
+        <th>Expertise</th>
+        <th>Qualifications</th>
+    </tr>
+    <tr>
+        <th class="name">Dr Kelvin Ward</th>
+        <td class="title">Urgent Care Physician </td>
+        <td class="quals">MBChB FRNZCUC DipCEM PGCertCPU</td>
+    </tr>
+    <tr>
+        <th class="name">Dr Amanda Kvalsvig </th>
+        <td class="title">Epidemiologist</td>
+        <td class="quals">MBChB MRCPCH(London) PhD </td>
+    </tr>
+    <tr>
+        <th class="name">Professor Michael Baker </th>
+        <td class="title">Epidemiologist </td>
+        <td class="quals">MBChB DPH DObs FAFPHM FNZCPHM FRACMA </td>
+    </tr>
+    <tr>
+        <th class="name">Dr Sandhya Ramanathan</th>
+        <td class="title">Specialist General Practitioner</td>
+        <td class="quals">BSc (Med) MBBS (Hons) DCH FRACGP FRNZCGP</td>
+    </tr>
+    <tr>
+        <th class="name">Dr Anna Brooks</th>
+        <td class="title">Immunologist</td>
+        <td class="quals">BCA BSc(Hons) PhD</td>
+    </tr>
+    <tr>
+        <th class="name">Dr Joel Rindelaub</th>
+        <td class="title">Aerosol Chemist</td>
+        <td class="quals">PhD</td>
+    </tr>
+    <tr>
+        <th class="name">Dr Rawiri Keenan</th>
+        <td class="title">General Practitioner</td>
+        <td class="quals">MBChB, FRNZCGP</td>
+    </tr>
+    <tr>
+        <th class="name">Terry Taylor</th>
+        <td class="title">Medical Laboratory Scientist</td>
+        <td class="quals">BSc DipMLS MNZIMLS</td>
+    </tr>
+    <tr>
+        <th class="name">Dr David Gollogly</th>
+        <td class="title">Urgent Care Physician</td>
+        <td class="quals">MBChB FRNZCUC</td>
+    </tr>
+    <tr>
+        <th class="name">Dr David Welch</th>
+        <td class="title">Computational Biologist</td>
+        <td class="quals">PhD</td>
+    </tr>
+</table>

@@ -1,0 +1,23 @@
+
+.overlay_panel {
+  background: rgba(0,0,0,.2);
+  padding: 0 0 1.2rem;
+  margin-top: 3.4rem;
+  margin-bottom: 2rem;
+  background:red;
+}
+
+.signature_table {
+    background:red;
+
+    .name {
+        font-size: 0.9em;
+        font-weight: bold;
+    }
+    .title {
+        font-size: 0.9em;
+    }
+    .quals {
+        font-size: 0.6em;
+    }
+}
