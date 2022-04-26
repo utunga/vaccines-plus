@@ -7,9 +7,14 @@ feature_image: "/assets/default-social-image.png"
 excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
+Text coming soon!
+
+<!-- 
 Vaccination alone is not be enough to fully protect our communities from high rates of COVID infection and the resulting complications.
 
-We need effective public health measures to avoid repeated waves of infection that  overload healthcare systems and disrupt daily life -- a scenario that is currently playing out around the world. Instead, we need a collective approach focused on minimising transmission by means of public health policies. 
+
+
+We need effective public health measures to avoid repeated waves of infection that  overload healthcare systems and disrupt daily life -- a scenario that is currently playing out around the world. A collective approach focused on minimising transmission by means of public health policies is required.
 
 Combined with a high vaccination rate, these protections encompass a Vaccines Plus strategy.
 
@@ -39,5 +44,6 @@ In the face of high uncertainty about the future course and long-term impacts of
 ## Who are we
 
 We are a group of doctors and scientists, many of us experts in epidemiology, air quality, and medicine, who are calling on the New Zealand Government to adopt a comprehensive mitigation strateg of COVID-19.
+ -->
 
 
