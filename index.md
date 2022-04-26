@@ -3,7 +3,7 @@ title: Vaccines Plus
 feature_text: |
   # Vaccines Plus
   ## A strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand
-feature_image: "/assets/default-social-image.jpg"
+feature_image: "/assets/default-social-image.png"
 excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
