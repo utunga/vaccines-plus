@@ -2,19 +2,21 @@
 title: Vaccines Plus
 feature_text: |
   # Vaccines Plus
-  ## A new strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand
+  ## A strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand
 feature_image: "https://images.unsplash.com/photo-1650598375215-e3c38fd62b77"
-excerpt: "Vaccines Plus is new strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
+excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
-COVID-19 is a novel pathogen that can repeatedly infect, with infection resulting in an increased risk of many serious long-term health complications for people of all ages. It is evident that vaccination alone will not be enough to fully protect our communities from high rates of COVID infection and the resulting complications.
+Vaccination alone is not be enough to fully protect our communities from high rates of COVID infection and the resulting complications.
 
-Relying on ‘personal responsibility’, without effective public health measures, will result in repeated waves of infection, an overloaded and dysfunctional healthcare system, and ongoing disruption to daily life. This scenario is currently playing out around the world. Instead, a collective approach is required that focuses on minimising transmission by means of public health policies. These measures should be viewed as protections rather than restrictions, and when combined with a high vaccination rate, would encompass a Vaccines Plus strategy.
+We need effective public health measures to avoid repeated waves of infection that  overload healthcare systems and disrupt daily life -- a scenario that is currently playing out around the world. Instead, we need a collective approach focused on minimising transmission by means of public health policies. 
+
+Combined with a high vaccination rate, these protections encompass a Vaccines Plus strategy.
 
 
 ## Actions to take now 
 
-COVID-19 spreads predominantly by airborne transmission. Public health policies must aim to provide clean air within indoor environments to minimise infections. The evidence for this conclusion is extensive.
+COVID-19 spreads predominantly by airborne transmission. Public health policies must aim to provide clean air within indoor environments to minimise infections. 
 
 We urge the New Zealand Government to implement the following, as part of a Vaccines Plus strategy:
 
@@ -39,60 +41,3 @@ In the face of high uncertainty about the future course and long-term impacts of
 We are a group of doctors and scientists, many of us experts in epidemiology, air quality, and medicine, who are calling on the New Zealand Government to adopt a comprehensive mitigation strateg of COVID-19.
 
 
-<table class="signature_table">
-    <tr>
-        <th>Name</th>
-        <th>Expertise</th>
-        <th>Qualifications</th>
-    </tr>
-    <tr>
-        <th class="name">Dr Kelvin Ward</th>
-        <td class="title">Urgent Care Physician </td>
-        <td class="quals">MBChB FRNZCUC DipCEM PGCertCPU</td>
-    </tr>
-    <tr>
-        <th class="name">Dr Amanda Kvalsvig </th>
-        <td class="title">Epidemiologist</td>
-        <td class="quals">MBChB MRCPCH(London) PhD </td>
-    </tr>
-    <tr>
-        <th class="name">Professor Michael Baker </th>
-        <td class="title">Epidemiologist </td>
-        <td class="quals">MBChB DPH DObs FAFPHM FNZCPHM FRACMA </td>
-    </tr>
-    <tr>
-        <th class="name">Dr Sandhya Ramanathan</th>
-        <td class="title">Specialist General Practitioner</td>
-        <td class="quals">BSc (Med) MBBS (Hons) DCH FRACGP FRNZCGP</td>
-    </tr>
-    <tr>
-        <th class="name">Dr Anna Brooks</th>
-        <td class="title">Immunologist</td>
-        <td class="quals">BCA BSc(Hons) PhD</td>
-    </tr>
-    <tr>
-        <th class="name">Dr Joel Rindelaub</th>
-        <td class="title">Aerosol Chemist</td>
-        <td class="quals">PhD</td>
-    </tr>
-    <tr>
-        <th class="name">Dr Rawiri Keenan</th>
-        <td class="title">General Practitioner</td>
-        <td class="quals">MBChB, FRNZCGP</td>
-    </tr>
-    <tr>
-        <th class="name">Terry Taylor</th>
-        <td class="title">Medical Laboratory Scientist</td>
-        <td class="quals">BSc DipMLS MNZIMLS</td>
-    </tr>
-    <tr>
-        <th class="name">Dr David Gollogly</th>
-        <td class="title">Urgent Care Physician</td>
-        <td class="quals">MBChB FRNZCUC</td>
-    </tr>
-    <tr>
-        <th class="name">Dr David Welch</th>
-        <td class="title">Computational Biologist</td>
-        <td class="quals">PhD</td>
-    </tr>
-</table>
