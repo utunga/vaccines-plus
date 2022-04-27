@@ -7,15 +7,11 @@ feature_image: "https://images.unsplash.com/photo-1650598375215-e3c38fd62b77"
 excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
-A copy of the letter we sent to the Government is [here](/assets/vaccines-plus-nz-open-letter-27-4-22.pdf). The text is copied below.
+A copy of the open letter sent to the New Zealand Government is [here](assets/vaccines-plus-nz-open-letter-27-4-22.pdf). The text is copied below.
 
-<a href="/assets/vaccines-plus-nz-open-letter-27-4-22.pdf" class="image fit">this</a>
+Contact us at [vaccinesplusnz@pm.me](mailto:vaccinesplusnz@pm.me?subject=Website Enquiry)
 
-<object data="/assets/vaccines-plus-nz-open-letter-27-4-22.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-Contact us at [vaccinesplusnz@pm.me](mailto:vaccinesplusnz@pm.me?subject=WebsiteEnquiry)
-
-## Vaccines Plus: to limit COVID-19 transmission
+## A strategy to limit COVID-19 transmission
 
 We the undersigned doctors and scientists, call on the New Zealand Government to adopt a comprehensive mitigation strategy, to minimise the negative health and economic effects of the COVID-19 pandemic. This goal is best achieved by maintaining low COVID-19 transmission and infection rates through implementation of an evidence-informed **Vaccines Plus** strategy, that combines high vaccination coverage with effective public health and social measures.
 
