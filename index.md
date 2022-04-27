@@ -3,13 +3,13 @@ title: Vaccines Plus
 feature_text: |
   # Vaccines Plus
   ## A strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand
-feature_image: "/assets/default-social-image.png"
+feature_image: "https://images.unsplash.com/photo-1650598375215-e3c38fd62b77"
 excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
-A copy of the letter we sent to the Government is here
+A copy of the letter we sent to the Government is [here](/assets/vaccines-plus-nz-open-letter-27-4-22.pdf). The text is copied below.
 
-The text is copied below.
+Contact us at [vaccinesplusnz@pm.me](mailto:vaccinesplusnz@pm.me?subject=WebsiteEnquiry)
 
 ## Vaccines Plus: to limit COVID-19 transmission
 
@@ -17,15 +17,15 @@ We the undersigned doctors and scientists, call on the New Zealand Government to
 
 COVID-19 is a novel pathogen that can repeatedly infect, with infection resulting in an increased risk of many serious long-term health complications for people of all ages. It is evident that vaccination alone will not be enough to fully protect our communities from high rates of COVID infection and the resulting complications.
 
-Relying on ‘personal responsibility’, without effective public health measures, will result in repeated waves of infection, an overloaded and dysfunctional healthcare system, and ongoing disruption to daily life. This scenario is currently playing out around the world. Instead, a collective approach is required that focuses on minimising transmission by means of public health policies. These measures should be viewed as protections rather than restrictions, and when combined with a high vaccination rate, would encompass a **Vaccines Plus** strategy.
+Relying on ‘personal responsibility’, without effective public health measures, will result in repeated waves of infection, an overloaded and dysfunctional healthcare system, and ongoing disruption to daily life. This scenario is currently playing out around the world. Instead, a collective approach is required that focuses on minimising transmission by means of public health policies. These measures should be viewed as protections rather than restrictions, and when combined with a high vaccination rate, would encompass a Vaccines Plus strategy.
 
-A public health based, **Vaccines Plus** approach favours the safety of all, especially marginalised communities who may lack access to resources needed to protect themselves. Groups particularly at risk when community transmission is high include children, the elderly, Māori and Pasifika, and people who are medically vulnerable or disabled.
+A public health based, Vaccines Plus approach favours the safety of all, especially marginalised communities who may lack access to resources needed to protect themselves. Groups particularly at risk when community transmission is high include children, the elderly, Māori and Pasifika, and people who are medically vulnerable or disabled.
 
 ## Vaccines Plus: actions to take now
 
 COVID-19 spreads predominantly by airborne transmission, therefore, to minimise infections public health policies must aim to provide clean air within indoor environments. The evidence for this conclusion is extensive.
 
-To this end, we urge the New Zealand Government to implement the following, as part of a **Vaccines Plus** strategy:
+To this end, we urge the New Zealand Government to implement the following, as part of a Vaccines Plus strategy:
 
 - Define, and clearly communicate to the public, a coherent mitigation strategy with well-defined goals. It is essential that this strategy recognises that the best outcomes for individuals and society will be achieved by maintaining low infection rates.
 - Increase public education on the nature and predominance of airborne transmission of COVID-19, including the factors that increase risk, and how to mitigate these risks.
@@ -43,7 +43,7 @@ Recurrent waves of infection caused by waning immunity, new variants, and the pr
 
 COVID-19 is a highly infectious disease, but transmission is preventable. As previously outlined, there are inexpensive and highly effective strategies for suppressing infection rates, that will work in the background to keep people safe as they go about their daily lives. We believe these measures can create a ‘covid-hostile’ environment in New Zealand that would protect us not only from new variants, but also from other airborne respiratory infections.
 
-In the face of high uncertainty about the future course and long-term impacts of the SARS- CoV-2 pandemic, New Zealand can again be a world leader if we embrace a comprehensive public health based, **Vaccines Plus** strategy.
+In the face of high uncertainty about the future course and long-term impacts of the SARS- CoV-2 pandemic, New Zealand can again be a world leader if we embrace a comprehensive public health based, Vaccines Plus strategy.
 
 ## Signatories
 
