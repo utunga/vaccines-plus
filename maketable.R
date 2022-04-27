@@ -10,4 +10,4 @@ for (i in 1:nrow(sig)){
 }
 x = paste(x, "</table>", sep = "\n")
 
-write(x, file = "_includes/site-table2.html")
+write(x, file = "_includes/site-table.html")
