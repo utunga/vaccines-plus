@@ -61,7 +61,6 @@ sass:
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Pacific/Auckland # Timezone for blog posts and alike
-remote_theme: daviddarnes/alembic@main
 
 # 5. Collections
 collections:
