@@ -9,7 +9,9 @@ excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotear
 
 A copy of the letter we sent to the Government is [here](/assets/vaccines-plus-nz-open-letter-27-4-22.pdf). The text is copied below.
 
-<object data="../assets/vaccines-plus-nz-open-letter-27-4-22.pdf" width="1000" height="1000" type='application/pdf'></object>
+<a href="/assets/vaccines-plus-nz-open-letter-27-4-22.pdf" class="image fit">this</a>
+
+<object data="/assets/vaccines-plus-nz-open-letter-27-4-22.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 Contact us at [vaccinesplusnz@pm.me](mailto:vaccinesplusnz@pm.me?subject=WebsiteEnquiry)
 
