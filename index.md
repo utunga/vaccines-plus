@@ -7,7 +7,7 @@ feature_image: "https://images.unsplash.com/photo-1650598375215-e3c38fd62b77"
 excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
-A copy of the open letter sent to the New Zealand Government is [here](/assets/pdf/vaccines-plus-nz-open-letter-27-4-22.pdf). The text is copied below.
+A copy of the open letter sent to the New Zealand Government is [here](/assets/pdf/vaccines-plus-nz-open-letter-30-4-22.pdf). The text is copied below.
 
 If you are a doctor or scientist with relevant expertise and would like to add your name to the call to adopt a Vaccines Plus strategy, [please sign here](https://docs.google.com/forms/d/e/1FAIpQLSe0S2vtfdsY0wuBCYz_sFAN-0I-nD_gJGpWfS3c2x3-zDiY4Q/viewform). 
 
@@ -46,6 +46,61 @@ Recurrent waves of infection caused by waning immunity, new variants, and the pr
 COVID-19 is a highly infectious disease, but transmission is preventable. As previously outlined, there are inexpensive and highly effective strategies for suppressing infection rates, that will work in the background to keep people safe as they go about their daily lives. We believe these measures can create a ‘covid-hostile’ environment in New Zealand that would protect us not only from new variants, but also from other airborne respiratory infections.
 
 In the face of high uncertainty about the future course and long-term impacts of the SARS- CoV-2 pandemic, New Zealand can again be a world leader if we embrace a comprehensive public health based, Vaccines Plus strategy.
+
+## Authors
+
+<table class="signature_table">
+<tr>
+<th class="name">Dr Kelvin Ward</th>
+<td class="title">Urgent Care Physician</td>
+<td class="quals">MBChB FRNZCUC DipCEM PGCertCPU</td>
+</tr>
+<tr>
+<th class="name">Dr Amanda Kvalsvig</th>
+<td class="title">Epidemiologist</td>
+<td class="quals">MBChB MRCPCH(London) PhD</td>
+</tr>
+<tr>
+<th class="name">Professor Michael Baker</th>
+<td class="title">Epidemiologist</td>
+<td class="quals">MBChB DPH DObs FAFPHM FNZCPHM FRACMA</td>
+</tr>
+<tr>
+<th class="name">Dr Sandhya Ramanathan</th>
+<td class="title">Specialist General Practitioner</td>
+<td class="quals">BSc (Med) MBBS (Hons) DCH FRACGP FRNZCGP</td>
+</tr>
+<tr>
+<th class="name">Dr Anna Brooks</th>
+<td class="title">Immunologist</td>
+<td class="quals">BCA BSc(Hons) PhD</td>
+</tr>
+<tr>
+<th class="name">Dr Joel Rindelaub</th>
+<td class="title">Aerosol Chemist</td>
+<td class="quals">PhD</td>
+</tr>
+<tr>
+<th class="name">Dr Rawiri Keenan</th>
+<td class="title">General Practitioner</td>
+<td class="quals">MBChB, FRNZCGP</td>
+</tr>
+<tr>
+<th class="name">Terry Taylor</th>
+<td class="title">Medical Laboratory Scientist</td>
+<td class="quals">BSc DipMLS MNZIMLS</td>
+</tr>
+<tr>
+<th class="name">Dr David Gollogly</th>
+<td class="title">Urgent Care Physician</td>
+<td class="quals">MBChB FRNZCUC</td>
+</tr>
+<tr>
+<th class="name">Dr David Welch</th>
+<td class="title">Computational Biologist</td>
+<td class="quals">PhD</td>
+</tr>
+
 
 ## Signatories
 
