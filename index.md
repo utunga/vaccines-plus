@@ -100,7 +100,7 @@ In the face of high uncertainty about the future course and long-term impacts of
 <td class="title">Computational Biologist</td>
 <td class="quals">PhD</td>
 </tr>
-
+</table>
 
 ## Signatories
 
