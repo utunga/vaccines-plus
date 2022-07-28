@@ -11,6 +11,8 @@ A copy of the open letter sent to the New Zealand Government is [here](/assets/p
 
 If you are a doctor or scientist with relevant expertise and would like to add your name to the call to adopt a Vaccines Plus strategy, [please sign here](https://docs.google.com/forms/d/e/1FAIpQLSe0S2vtfdsY0wuBCYz_sFAN-0I-nD_gJGpWfS3c2x3-zDiY4Q/viewform). 
 
+On 25 May 2022, we received a reply to our letter from Hon Chris Hipkins who was then Minister for COVID-19. You can [read the response here](/assets/pdf/vaccines-plus-nz-minister-hipkins-reply.pdf).
+
 Contact us at [vaccinesplusnz@pm.me](mailto:vaccinesplusnz@pm.me?subject=Website Enquiry)
 
 ## A strategy to limit COVID-19 transmission
