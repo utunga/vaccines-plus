@@ -9,9 +9,10 @@ excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotear
 
 A copy of the open letter sent to the New Zealand Government is [here](/assets/pdf/vaccines-plus-nz-open-letter-30-4-22.pdf). The text is copied below.
 
+On 25 May 2022, **we received a reply to our letter from Hon Chris Hipkins** who was then Minister for COVID-19. You can [read the reply here](/assets/pdf/vaccines-plus-nz-minister-hipkins-reply.pdf).
+
 If you are a doctor or scientist with relevant expertise and would like to add your name to the call to adopt a Vaccines Plus strategy, [please sign here](https://docs.google.com/forms/d/e/1FAIpQLSe0S2vtfdsY0wuBCYz_sFAN-0I-nD_gJGpWfS3c2x3-zDiY4Q/viewform). 
 
-On 25 May 2022, we received a reply to our letter from Hon Chris Hipkins who was then Minister for COVID-19. You can [read the response here](/assets/pdf/vaccines-plus-nz-minister-hipkins-reply.pdf).
 
 Contact us at [vaccinesplusnz@pm.me](mailto:vaccinesplusnz@pm.me?subject=Website Enquiry)
 
