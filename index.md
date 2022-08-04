@@ -7,7 +7,7 @@ feature_image: "https://images.unsplash.com/photo-1650598375215-e3c38fd62b77"
 excerpt: "Vaccines Plus is strategy to mitigate the spread of COVID-19 in Aotearoa/New Zealand that combines high vaccination coverage with effective public health and social measures"
 ---
 
-A copy of the open letter sent to the New Zealand Government is [here](/assets/pdf/vaccines-plus-nz-open-letter-30-4-22.pdf). The text is copied below.
+A copy of the open letter sent to the New Zealand Government is [here](/assets/pdf/vaccines-plus-nz-open-letter-2-8-22.pdf). The text is copied below.
 
 On 25 May 2022, **we received a reply to our letter from Hon Chris Hipkins** who was then Minister for COVID-19. You can [read the reply here](/assets/pdf/vaccines-plus-nz-minister-hipkins-reply.pdf).
 
